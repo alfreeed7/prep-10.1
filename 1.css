@@ -26,12 +26,12 @@ img
 .no
 { position: absolute;
     width: 35%;
-    top:310px;
+   margin-top: 10px;
     margin-left: 7%; }
 
 .yes{
     position: absolute;
     margin-left: 50%;
     width:43%;
-    top:310px;
+    margin-top: 10px;
 }
