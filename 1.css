@@ -1,0 +1,37 @@
+body
+{background-image: url(background.png);
+    background-size: cover;
+    background-attachment: fixed;
+    color: #f7f0f0;
+}
+
+p
+{
+    background-color:#65879cd4;
+}
+h1
+{
+    text-align: center;
+}
+
+p
+{
+    width:70%;
+    margin-left: 15%;
+}
+
+img
+{height: 290px;}
+
+.no
+{ position: absolute;
+    width: 35%;
+    top:310px;
+    margin-left: 7%; }
+
+.yes{
+    position: absolute;
+    margin-left: 50%;
+    width:43%;
+    top:310px;
+}
